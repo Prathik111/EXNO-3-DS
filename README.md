@@ -31,8 +31,30 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![1](https://github.com/user-attachments/assets/45238085-d37d-4180-9830-3970d0fcae20)
+![2](https://github.com/user-attachments/assets/34cbed89-6a40-4dd3-8028-c32824d064ad)
+![3](https://github.com/user-attachments/assets/84a723a0-48fd-4554-9061-8a25abfa5c10)
+![4](https://github.com/user-attachments/assets/539d474f-dda2-4369-a693-0507192ee6b8)
+![5](https://github.com/user-attachments/assets/603a16a5-1910-4cea-b1c4-535111eb117c)
+![6](https://github.com/user-attachments/assets/52f56078-ec5e-4c65-b814-18c0836e1995)
+![7](https://github.com/user-attachments/assets/f1d34605-1879-40c2-9174-1963a8702911)
+![8](https://github.com/user-attachments/assets/814c926d-1884-4ff8-8801-f87fee1a291c)
+![9](https://github.com/user-attachments/assets/afa9be8f-83a3-4d28-9493-9f072812a85e)
+![10](https://github.com/user-attachments/assets/fa7fc14b-fa75-4bf1-9b21-8816cb1c48d3)
+![11](https://github.com/user-attachments/assets/c6d4fac3-f2a9-48ea-b13d-ba827ebdeba4)
+![12](https://github.com/user-attachments/assets/a29ebfee-489c-4a44-841c-6542f79b42cf)
+![13](https://github.com/user-attachments/assets/4fa5c228-1062-4dca-8c98-405036844c91)
+![14](https://github.com/user-attachments/assets/8b8b5d71-2fd1-40e7-a309-87fbfdc3394b)
+![15](https://github.com/user-attachments/assets/966e3288-564c-4149-a0d8-3912790b33a7)
+![16](https://github.com/user-attachments/assets/f4fd133c-aa18-4dbe-bdb3-1c2727751309)
+![17](https://github.com/user-attachments/assets/a7857583-6526-42e5-b359-c81aee72e4da)
+![18](https://github.com/user-attachments/assets/689df190-f980-4c1d-9656-dac819bdf02e)
+![19](https://github.com/user-attachments/assets/cbcf1bbb-5caa-41c8-aeec-e36dc269b6db)
+![20](https://github.com/user-attachments/assets/5c7939bf-071f-4474-be59-9ff21d20048b)
+![21](https://github.com/user-attachments/assets/4017fa27-bb24-4ca1-b317-4ade9c286447)
+![22](https://github.com/user-attachments/assets/d1ee860b-74e6-4baf-9d90-7ef8331995c4)
+![23](https://github.com/user-attachments/assets/47b23513-0b15-4c90-8086-f6ffc2d67de5)
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+       Thus the program executed successfully
 
        
